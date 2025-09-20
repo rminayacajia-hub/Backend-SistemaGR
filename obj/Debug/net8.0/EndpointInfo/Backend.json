@@ -682,11 +682,6 @@
             "type": "integer",
             "format": "int32"
           },
-          "total": {
-            "type": "number",
-            "format": "double",
-            "readOnly": true
-          },
           "clientesId": {
             "type": "integer",
             "format": "int32"
